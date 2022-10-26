@@ -11,5 +11,6 @@ También utilicé este trabajo para contar personas y mapear su movimiento en un
 
 ## Clases
 * [Eliminar fondo](./fondo/fondo.md)
+* [Aplicación de filtros](./filtros/filtros.md)
 * [Detección de bordes](./deteccion-bordes.md)
 * [Conteo de objetos](./conteo-objetos.md)
