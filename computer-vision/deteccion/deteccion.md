@@ -234,6 +234,6 @@ plt.imshow(img_color)
 
 La imagen final puede refinarse, pero ya podemos ver que el algoritmo funciona. La mejor manera de corregir la clasificación de acuerdo al tamaño es dibujar los rectángulos en la imagen original. Hay que recordar que este algoritmo está diseñado para videos, así que sólo puedo mostrate una captura del proyecto funcionando.
 
-![Ejemplo real de detección vehicular](deteccion.png)
+![Ejemplo real de detección vehicular](./deteccion.PNG)
 
 Si has seguido los pasos, seguramente podrás ver los resultados en tus propios videos.
