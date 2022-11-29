@@ -20,9 +20,9 @@ En esta sección quiero inspirarte con algunos videos que ya grabé y compartí 
 
 ## Contenido
 * [Conceptos básicos](./conceptos-basicos.md)
-* [Visión por computadora](./computer-vision/readme.md)
-* [Análisis de series de tiempo](./analisis-series-tiempo/readme.md)
-* [Análisis de grafos](./analisis-grafos/readme.md)
+* [Visión por computadora](./computer-vision/readme.md) (En curso)
+* [Análisis de series de tiempo](./analisis-series-tiempo/readme.md) (En espera)
+* [Análisis de grafos](./analisis-grafos/readme.md) (En espera)
 
 ## Apoya el proyecto
 Puedes apoyar este curso para que siga creciendo y se pueda ofrecer de forma gratuita. Puedes hacerlo de varias formas:
